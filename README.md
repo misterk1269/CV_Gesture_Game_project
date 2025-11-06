@@ -1,4 +1,4 @@
-# 🎮 AR Gesture Game Controller  
+# 🎮 Gesture Game Controller  
 *(Play Subway Surfers, SEGA, and other games using only your hand gestures!)*
 
 ![AR Gesture Game Control Start Screen](SS_Game.png)
